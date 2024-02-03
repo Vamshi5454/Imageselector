@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+.bottom {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img {
+  width: 300px;
+  height: 300px;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+#top-image {
+  background-color: white;
+}
